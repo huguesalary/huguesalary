@@ -1,10 +1,10 @@
 == Blog
 
-https://boxunix.com
+https://boxunix.com?utm_source=github[https://boxunix.com]
 
 === Posts
 
-* `2022/02/05` https://boxunix.com/2022/02/05/developers-guide-to-writing-a-good-helm-chart/[Developer’s Guide to Writing a Good Helm Chart]
-* `2020/05/15` https://boxunix.com/2020/05/15/a-better-way-of-organizing-your-kubernetes-manifest-files/[A Better Way of Organizing Your Kubernetes Manifest Files]
-* `2019/04/04` https://boxunix.com/2019/04/04/enforcing-logical-order-of-chronologically-incoherent-commits-in-github/[Enforcing logical order of chronologically incoherent commits in Github]
-* `2018/12/10` https://boxunix.com/2018/12/10/from-bare-metal-to-kubernetes/[From bare-metal to Kubernetes]
+* `2022/02/05` https://boxunix.com/2022/02/05/developers-guide-to-writing-a-good-helm-chart/?utm_source=github[Developer’s Guide to Writing a Good Helm Chart]
+* `2020/05/15` https://boxunix.com/2020/05/15/a-better-way-of-organizing-your-kubernetes-manifest-files/?utm_source=github[A Better Way of Organizing Your Kubernetes Manifest Files]
+* `2019/04/04` https://boxunix.com/2019/04/04/enforcing-logical-order-of-chronologically-incoherent-commits-in-github/?utm_source=github[Enforcing logical order of chronologically incoherent commits in Github]
+* `2018/12/10` https://boxunix.com/2018/12/10/from-bare-metal-to-kubernetes/?utm_source=github[From bare-metal to Kubernetes]
